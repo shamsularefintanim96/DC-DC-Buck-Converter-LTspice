@@ -59,3 +59,20 @@ Md Shamsul Arefin Tanim
 
 MSc Electronics Engineering
 University of Hertfordshire
+
+
+## Circuit Diagram
+
+![Circuit Diagram](Full%20Circuit%20Diagram.jpg)
+
+## Output Voltage Waveform
+
+![Output Voltage](Vout%20Waveform.jpg)
+
+## Inductor Current Waveform
+
+![Inductor Current](Inductor%20Current%20Waveform.jpg)
+
+## Switching Node Waveform
+
+![Switching Node](SW%20Node%20Waveform.jpg)
